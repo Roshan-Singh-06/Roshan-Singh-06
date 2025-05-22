@@ -1,38 +1,39 @@
 # 👋 Hi, I'm Roshan Singh
 
-A passionate **Full Stack Developer** with expertise in the **MERN stack**, **SQL**, **Redux**, and **AWS** ☁️. I love building scalable web apps and working on real-world problem-solving projects like **F-market**, a farmer-to-consumer platform.
+A passionate **Full Stack Developer** and third-year Computer Engineering student. I specialize in the **MERN stack** and love building efficient, real-world applications that solve meaningful problems.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 **Full Stack Expertise**: MERN Stack (MongoDB, Express.js, React, Node.js), SQL, HTML5, CSS3, JavaScript
-- ☁️ **Cloud Enthusiast**: Skilled in **AWS EC2**, **S3**, and **deployment workflows**
-- 🔧 **Tools & Technologies**: Git, GitHub, Docker, Postman, VS Code, RESTful APIs
-- 🎯 **Currently Building**: A full-featured e-commerce-style farmer platform
-- 🌱 **Currently Learning**: Next.js, TypeScript, DevOps basics
+- 💡 Strong in **React.js**, **Node.js**, **MongoDB**, **Express.js**, and **Tailwind CSS**
+- 🛠️ Experienced in building end-to-end projects using the **MERN stack**
+- 🏆 Winner of the Internal Hackathon at Theem College of Engineering
+- 🌱 Currently learning **Next.js**, **DevOps**, and expanding my AWS skills
+
 
 ---
 
-## 🌟 Top Skills
+## 🧠 Technical Skills
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshan-Singh-06&show_icons=true&theme=react&hide_border=true" alt="Roshan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshan-Singh-06&show_icons=true&theme=react&hide_border=true" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshan-Singh-06&theme=react&hide_border=true" alt="Roshan's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshan-Singh-06&theme=react&hide_border=true" />
 </p>
 
 ---
@@ -50,5 +51,6 @@ A passionate **Full Stack Developer** with expertise in the **MERN stack**, **SQ
 
 ---
 
-<!-- Feel free to add blog links, project demos, or other social badges -->
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+
 
