@@ -1,11 +1,11 @@
+# Hey!👋 Nice to see you.
 
----
 
 <img src="https://img.freepik.com/vector-premium/hello-world-es-palabra-simple-primera-programacion-programador_48644-298.jpg" align="left" height="350" width="100%" />
 
 ---
 ---
-# Hey!👋 Welcome to my page! I'm Roshan,a software developer👨‍💻
+#  Welcome to my page! I'm Roshan,a software developer👨‍💻
 ---
 ---
 A passionate **Full Stack Developer** and third-year Computer Engineering student. I specialize in the **MERN stack** and love building efficient, real-world applications that solve meaningful problems.
