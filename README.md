@@ -1,24 +1,29 @@
-<!-- 🎨 BANNER -->
-<p align="center">
-  <img src="https://your-banner-image-url-here.com" alt="Roshan Singh | Full Stack Developer Banner" />
-</p>
+# 👋 Hi, I'm Roshan Singh
 
-<!-- ⌨️ TYPING INTRO -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+I'm+Roshan+Singh+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Stack+Engineer;Always+Building%2C+Always+Learning+%F0%9F%9A%80" />
-</p>
+A passionate **Full Stack Developer** and third-year Computer Engineering student. I specialize in the **MERN stack** and love building efficient, real-world applications that solve meaningful problems.
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-```diff
-+ MERN Stack Developer | 3rd-Year Computer Engineering Student
-+ Winner - Internal Hackathon @ Theem College
-+ Passionate about scalable, user-first apps
-+ Skilled in React, Node, MongoDB, Tailwind, Redux, AWS
-+ Currently exploring Next.js, DevOps, and cloud deployment
+- 🎓 Third year Computer Engineering student 
+- 💡 Strong in **React.js**, **Node.js**, **MongoDB**, **Express.js**, and **Tailwind CSS**
+- 🛠️ Experienced in building end-to-end projects using the **MERN stack**
+- 🏆 Winner of the Internal Hackathon at Theem College of Engineering
+- 🌱 Currently learning **Next.js**, **DevOps**, and expanding my AWS skills
 
+### 🧩 Key Projects
+
+- 🛒 **F-Market (Farmer-Consumer Platform)**  
+  MERN stack e-commerce platform with secure JWT login, seller onboarding, admin dashboards, and product filtering (vegetables, pulses, grains).
+
+- 📊 **Data Structure Visualizer**  
+  An educational web platform for interactive visualization of DSA concepts like sorting, searching, and graph traversal. Built using React and Node.js.
+
+- 🎥 **YouTube Clone Backend**  
+  Node.js-based RESTful API backend for a social media platform. Features include video upload, user authentication, likes, and comments with JWT and MongoDB.
+
+---
 
 ## 🧠 Technical Skills
 
@@ -58,5 +63,3 @@
 ---
 
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
-
