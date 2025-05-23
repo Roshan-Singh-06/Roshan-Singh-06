@@ -46,6 +46,8 @@ A passionate **Full Stack Developer** and third-year Computer Engineering studen
   <img src="https://github-readme-stats.vercel.app/api?username=Roshan-Singh-06&show_icons=true&theme=react&hide_border=true" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshan-Singh-06&theme=react&hide_border=true" />
+  ![Roshan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Singh-06&layout=compact&theme=radical)
+
 </p>
 
 ---
