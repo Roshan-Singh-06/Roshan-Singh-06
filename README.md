@@ -13,18 +13,16 @@ A passionate **Full Stack Developer** and third-year Computer Engineering studen
 - 🏆 Winner of the Internal Hackathon at Theem College of Engineering
 - 🌱 Currently learning **Next.js**, **DevOps**, and expanding my AWS skills
 
-### 🧩 Key Projects
+### ⚙️ My Favorite Tools
 
-- 🛒 **F-Market (Farmer-Consumer Platform)**  
-  MERN stack e-commerce platform with secure JWT login, seller onboarding, admin dashboards, and product filtering (vegetables, pulses, grains).
-
-- 📊 **Data Structure Visualizer**  
-  An educational web platform for interactive visualization of DSA concepts like sorting, searching, and graph traversal. Built using React and Node.js.
-
-- 🎥 **YouTube Clone Backend**  
-  Node.js-based RESTful API backend for a social media platform. Features include video upload, user authentication, likes, and comments with JWT and MongoDB.
-
----
+![Postman](https://img.shields.io/badge/API-Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Version--Control-Git-black?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/Design-Figma-a259ff?style=for-the-badge&logo=figma&logoColor=white)
+![Render](https://img.shields.io/badge/Hosting-Render-3f3fff?style=for-the-badge&logo=render&logoColor=white)
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Server-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ## 🧠 Technical Skills
 
@@ -44,6 +42,15 @@ A passionate **Full Stack Developer** and third-year Computer Engineering studen
 
 ![Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roshan-Singh-06&show_icons=true&theme=radical&border_radius=10)
 ![Roshan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Singh-06&layout=compact&theme=radical)
+
+
+---
+---
+
+### 🔥 GitHub Streak Stats
+
+[![Roshan's Streak](https://github-readme-streak-stats.herokuapp.com?user=Roshan-Singh-06&theme=radical&border_radius=10)](https://git.io/streak-stats)
+
 ---
 
 ## 🤝 Connect with Me
@@ -58,5 +65,16 @@ A passionate **Full Stack Developer** and third-year Computer Engineering studen
 </p>
 
 ---
+
+---
+
+### 💬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-brown?style=flat-square&logo=firefox)](https://your-portfolio-link.com)
+[![Gmail](https://img.shields.io/badge/Gmail-singh06xyz@gmail.com-red?style=flat-square&logo=gmail)](mailto:singh06xyz@gmail.com)
+
+---
+
 
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
