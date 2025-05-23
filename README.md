@@ -2,11 +2,12 @@
 
 <img src="https://img.freepik.com/vector-premium/hello-world-es-palabra-simple-primera-programacion-programador_48644-298.jpg" align="left" height="350" width="100%" />
 
+---
 # Welcome to my page! I'm Roshan,a software developer👨‍💻
-
-
+---
+---
 A passionate **Full Stack Developer** and third-year Computer Engineering student. I specialize in the **MERN stack** and love building efficient, real-world applications that solve meaningful problems.
-<img src="https://readme-hero.vercel.app/api?name=Roshan%20Singh&title=MERN%20Stack%20Developer&desc=Crafting%20Web%20Experiences%20with%20Node%20+%20React%20+%20MongoDB&font=Fira%20Code" alt="Roshan Singh MERN Stack Developer Banner" />
+---
 
 ---
 
