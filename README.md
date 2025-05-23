@@ -1,12 +1,13 @@
-# 👋 Hi, I'm Roshan Singh
+# Hey!👋 Nice to see you.
+# Welcome to my page! I'm Roshan
 
 A passionate **Full Stack Developer** and third-year Computer Engineering student. I specialize in the **MERN stack** and love building efficient, real-world applications that solve meaningful problems.
+<img src="https://readme-hero.vercel.app/api?name=Roshan%20Singh&title=MERN%20Stack%20Developer&desc=Crafting%20Web%20Experiences%20with%20Node%20+%20React%20+%20MongoDB&font=Fira%20Code" alt="Roshan Singh MERN Stack Developer Banner" />
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Third year Computer Engineering student 
 - 💡 Strong in **React.js**, **Node.js**, **MongoDB**, **Express.js**, and **Tailwind CSS**
 - 🛠️ Experienced in building end-to-end projects using the **MERN stack**
 - 🏆 Winner of the Internal Hackathon at Theem College of Engineering
