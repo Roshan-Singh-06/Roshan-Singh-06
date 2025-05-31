@@ -74,6 +74,3 @@ A passionate **Full Stack Developer** and third-year Computer Engineering studen
 ---
 
 
-
-
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
