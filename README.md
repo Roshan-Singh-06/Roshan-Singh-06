@@ -1,4 +1,4 @@
-# Hey!👋 Nice to see .
+# Hey!👋 Nice to see you .
 
 
 <img src="https://img.freepik.com/vector-premium/hello-world-es-palabra-simple-primera-programacion-programador_48644-298.jpg" align="left" height="350" width="100%" />
